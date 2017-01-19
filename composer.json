@@ -1,0 +1,19 @@
+{
+    "name": "ssg-studio/restapi",
+    "description": "simple rest full api project",
+    "type": "test",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/ssg-studio/restapi"
+    }
+  ],
+    "authors": [
+        {
+            "name": "Viktor Afanasjev",
+            "email": "viktor85a@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
